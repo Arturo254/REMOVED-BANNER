@@ -16,4 +16,4 @@ cd REMOVED-BANNER
 
 chmod +x *
 
-bash Removed-Banner.sh
+bash Remove-Banner.sh
