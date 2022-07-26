@@ -10,7 +10,7 @@ PARÁ QUE TENGAS UNA TERMINAL LIMIPA
 
  pkg install git -y
 
-git clone https:// github.com/Arturo254/REMOVED-BANNER
+git clone https://github.com/Arturo254/REMOVED-BANNER
 
 cd REMOVED-BANNER
 
