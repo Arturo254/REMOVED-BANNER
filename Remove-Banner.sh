@@ -51,7 +51,7 @@ sleep 2
 echo -e "\e[34m 				REMOVIENDO EL BANNER POR DEFECTO"
 clear 
 
-cd ../usr/etc/;ls
+cd /data/data/com.termux/files/usr/etc  
 
 rm -f motd.sh
 
